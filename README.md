@@ -1,6 +1,6 @@
 
 <html>
-<head
+<head>
      <title>MENU DESPLEGABLES</title>
 
     <style>
