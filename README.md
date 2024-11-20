@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <html lang="es">
-<head>
-     <meta name="viewport"content="wwidth=device-width,initial-scal=1.0">
+<head
      <meta charset=!UTF-8">
      <title>MENU DESPLEGABLES</title>
 
